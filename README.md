@@ -33,7 +33,13 @@ Rambley, desenvolvido por WishAI, é mais do que apenas uma calculadora de recic
 
 # Tecnologias Utilizadas:
 PyTorch: Capacidades avançadas de IA integradas para precificação dinâmica.
+
+
+
 PySimpleGUI: Desenvolvimento de interface amigável ao usuário.
+
+
+
 Python: Linguagem de programação principal para execução sem problemas.
 
 # Sinta-se à vontade para contribuir, personalizar e implantar o Rambley para contribuir para um planeta mais verde!
