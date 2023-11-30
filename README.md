@@ -14,9 +14,13 @@ Persistência: Rambley garante a longevidade de suas configurações, salvando o
 # Como Usar:
 
 Insira o Peso: Digite o peso dos itens recicláveis em quilogramas.
+
 Obtenha Estimativa de Preço: Rambley calcula e exibe o preço estimado para reciclagem com base no modelo configurado.
+
 Configuração: Ajuste finamente o modelo de precificação do Rambley usando a janela de configuração para dinâmicas de precificação personalizadas.
-Rambley, desenvolvido por Neon, é mais do que apenas uma calculadora de reciclagem; é um passo em direção a um futuro sustentável.
+
+Rambley, desenvolvido por WishAI, é mais do que apenas uma calculadora de reciclagem; é um passo em direção a um futuro sustentável.
+
 #Tecnologias Utilizadas:
 PyTorch: Capacidades avançadas de IA integradas para precificação dinâmica.
 PySimpleGUI: Desenvolvimento de interface amigável ao usuário.
